@@ -16,7 +16,7 @@ A computer vision-based application that allows users to draw digitally using on
 ### Gesture-based Full Canvas Clear  
 - A specific **hand gesture** clears the entire drawing canvas instantly.  
 
-### Screenshot and Save Feature  
+### Screenshot and Save  
 - Capture your artwork and save it as an image file for future reference.  
 
 ### Machine Learning-powered Efficiency  
