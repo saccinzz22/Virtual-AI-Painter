@@ -29,9 +29,3 @@ A computer vision-based application that allows users to draw digitally using on
 - **OpenCV** – For computer vision processing  
 - **MediaPipe** – Deep learning-based hand tracking  
 
-## Installation  
-
-### Prerequisites  
-Ensure you have **Python 3.7+** installed. You can check your version using:  
-```bash
-python --version
